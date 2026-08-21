@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# C compiled files
+*.o
+*.out
+
+# Editor files
+.vscode/
+.idea/
+
+# Linux temporary files
+*~
