@@ -1,0 +1,462 @@
+--- Node 0 Cycle 1 ---
+My initial time: 1789662467.0853
+Cluster Average: 1789662467.0853
+Clock Skew / Correction: -2.0579 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0000 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662467.0857
+
+--- Node 0 Cycle 2 ---
+My initial time: 1789662470.0868
+Node 1: 1789662472.1468 (RTT: 0.0018 s)
+Cluster Average: 1789662471.1168
+Clock Skew / Correction: +0.0160 s (Signo: desfase relativo)
+Cluster Std Dev: 1.4567 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662471.1174
+
+--- Node 0 Cycle 3 ---
+Random drift injected: -0.662 s
+My initial time: 1789662473.4563
+Node 1: 1789662474.1143 (RTT: 0.0017 s)
+Node 2: 1789662476.5525 (RTT: 0.2607 s)
+Cluster Average: 1789662474.7077
+Clock Skew / Correction: +0.9883 s (Signo: desfase relativo)
+Cluster Std Dev: 1.6311 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662474.7082
+
+--- Node 0 Cycle 4 ---
+My initial time: 1789662477.7090
+Node 1: 1789662477.6742 (RTT: 0.0016 s)
+Node 2: 1789662478.2700 (RTT: 0.0010 s)
+Cluster Average: 1789662477.8844
+Clock Skew / Correction: +0.1723 s (Signo: desfase relativo)
+Cluster Std Dev: 0.3344 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662477.8846
+
+--- Node 0 Cycle 5 ---
+My initial time: 1789662480.8853
+Node 1: 1789662481.1806 (RTT: 0.0014 s)
+Node 2: 1789662481.1131 (RTT: 0.0013 s)
+Cluster Average: 1789662481.0597
+Clock Skew / Correction: +0.1712 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1547 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662481.0599
+
+--- Node 0 Cycle 6 ---
+Random drift injected: -1.126 s
+My initial time: 1789662482.9354
+Node 1: 1789662484.1209 (RTT: 0.0018 s)
+Node 2: 1789662484.6256 (RTT: 0.0014 s)
+Cluster Average: 1789662483.8940
+Clock Skew / Correction: +0.9545 s (Signo: desfase relativo)
+Cluster Std Dev: 0.8676 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662483.8942
+
+--- Node 0 Cycle 7 ---
+My initial time: 1789662486.8952
+Node 1: 1789662487.2151 (RTT: 0.0019 s)
+Node 2: 1789662487.2469 (RTT: 0.0014 s)
+Cluster Average: 1789662487.1191
+Clock Skew / Correction: +0.2202 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1946 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662487.1194
+
+--- Node 0 Cycle 8 ---
+My initial time: 1789662490.1205
+Node 1: 1789662490.5180 (RTT: 0.0017 s)
+Node 2: 1789662490.2970 (RTT: 0.0010 s)
+Cluster Average: 1789662490.3118
+Clock Skew / Correction: +0.1880 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1992 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662490.3122
+
+--- Node 0 Cycle 9 ---
+Random drift injected: -0.764 s
+My initial time: 1789662492.5488
+Node 1: 1789662493.3784 (RTT: 0.0024 s)
+Node 2: 1789662493.2354 (RTT: 0.0025 s)
+Cluster Average: 1789662493.0542
+Clock Skew / Correction: +0.4993 s (Signo: desfase relativo)
+Cluster Std Dev: 0.4435 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662493.0545
+
+--- Node 0 Cycle 10 ---
+My initial time: 1789662496.0553
+Node 1: 1789662496.2250 (RTT: 0.0014 s)
+Node 2: 1789662496.1729 (RTT: 0.0010 s)
+Cluster Average: 1789662496.1511
+Clock Skew / Correction: +0.0929 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0869 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662496.1513
+
+--- Node 0 Cycle 11 ---
+My initial time: 1789662499.1524
+Node 1: 1789662498.8350 (RTT: 0.0013 s)
+Node 2: 1789662499.0551 (RTT: 0.0012 s)
+Cluster Average: 1789662499.0142
+Clock Skew / Correction: -0.1412 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1626 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662499.0146
+
+--- Node 0 Cycle 12 ---
+Random drift injected: -0.526 s
+My initial time: 1789662501.4895
+Node 1: 1789662501.9692 (RTT: 0.0014 s)
+Node 2: 1789662502.4737 (RTT: 0.0015 s)
+Cluster Average: 1789662501.9775
+Clock Skew / Correction: +0.4846 s (Signo: desfase relativo)
+Cluster Std Dev: 0.4921 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662501.9778
+
+--- Node 0 Cycle 13 ---
+My initial time: 1789662504.9783
+Node 1: 1789662505.1420 (RTT: 0.0013 s)
+Node 2: 1789662505.1998 (RTT: 0.0012 s)
+Cluster Average: 1789662505.1067
+Clock Skew / Correction: +0.1251 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1149 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662505.1070
+
+--- Node 0 Cycle 14 ---
+My initial time: 1789662508.1081
+Node 1: 1789662508.7688 (RTT: 0.0012 s)
+Node 2: 1789662508.3605 (RTT: 0.0014 s)
+Cluster Average: 1789662508.4124
+Clock Skew / Correction: +0.3014 s (Signo: desfase relativo)
+Cluster Std Dev: 0.3334 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662508.4127
+
+--- Node 0 Cycle 15 ---
+Random drift injected: +0.529 s
+My initial time: 1789662511.9430
+Node 1: 1789662511.5161 (RTT: 0.0014 s)
+Node 2: 1789662511.7944 (RTT: 0.0011 s)
+Cluster Average: 1789662511.7512
+Clock Skew / Correction: -0.1947 s (Signo: desfase relativo)
+Cluster Std Dev: 0.2167 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662511.7514
+
+--- Node 0 Cycle 16 ---
+My initial time: 1789662514.7525
+Node 1: 1789662514.6900 (RTT: 0.0017 s)
+Node 2: 1789662514.7473 (RTT: 0.0011 s)
+Cluster Average: 1789662514.7299
+Clock Skew / Correction: -0.0261 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0347 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662514.7303
+
+--- Node 0 Cycle 17 ---
+My initial time: 1789662517.7315
+Node 1: 1789662517.0756 (RTT: 0.0009 s)
+Node 2: 1789662517.5190 (RTT: 0.0009 s)
+Cluster Average: 1789662517.4420
+Clock Skew / Correction: -0.2916 s (Signo: desfase relativo)
+Cluster Std Dev: 0.3346 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662517.4422
+
+--- Node 0 Cycle 18 ---
+Random drift injected: -0.141 s
+My initial time: 1789662520.3034
+Node 1: 1789662520.3489 (RTT: 0.0017 s)
+Node 2: 1789662520.3662 (RTT: 0.0010 s)
+Cluster Average: 1789662520.3395
+Clock Skew / Correction: +0.0329 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0324 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662520.3397
+
+--- Node 0 Cycle 19 ---
+My initial time: 1789662523.3414
+Node 1: 1789662523.3543 (RTT: 0.0016 s)
+Node 2: 1789662523.3567 (RTT: 0.0018 s)
+Cluster Average: 1789662523.3508
+Clock Skew / Correction: +0.0054 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0082 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662523.3511
+
+--- Node 0 Cycle 20 ---
+My initial time: 1789662526.3538
+Node 1: 1789662526.7135 (RTT: 0.0021 s)
+Node 2: 1789662526.4793 (RTT: 0.0027 s)
+Cluster Average: 1789662526.5155
+Clock Skew / Correction: +0.1550 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1826 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662526.5161
+
+--- Node 0 Cycle 21 ---
+Random drift injected: -1.456 s
+My initial time: 1789662528.0617
+Node 1: 1789662529.5738 (RTT: 0.0016 s)
+Node 2: 1789662529.5197 (RTT: 0.0014 s)
+Cluster Average: 1789662529.0517
+Clock Skew / Correction: +0.9866 s (Signo: desfase relativo)
+Cluster Std Dev: 0.8578 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662529.0520
+
+--- Node 0 Cycle 22 ---
+My initial time: 1789662532.0530
+Node 1: 1789662532.3846 (RTT: 0.0020 s)
+Node 2: 1789662532.3205 (RTT: 0.0009 s)
+Cluster Average: 1789662532.2527
+Clock Skew / Correction: +0.1963 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1759 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662532.2530
+
+--- Node 0 Cycle 23 ---
+My initial time: 1789662535.2538
+Node 1: 1789662535.9130 (RTT: 0.0015 s)
+Node 2: 1789662535.4972 (RTT: 0.0009 s)
+Cluster Average: 1789662535.5547
+Clock Skew / Correction: +0.2980 s (Signo: desfase relativo)
+Cluster Std Dev: 0.3333 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662535.5549
+
+--- Node 0 Cycle 24 ---
+Random drift injected: +1.047 s
+My initial time: 1789662539.6046
+Node 1: 1789662538.6579 (RTT: 0.0014 s)
+Node 2: 1789662538.1415 (RTT: 0.0007 s)
+Cluster Average: 1789662538.8013
+Clock Skew / Correction: -0.8058 s (Signo: desfase relativo)
+Cluster Std Dev: 0.7420 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662538.8020
+
+--- Node 0 Cycle 25 ---
+My initial time: 1789662541.8045
+Node 1: 1789662541.5372 (RTT: 0.0014 s)
+Node 2: 1789662541.4962 (RTT: 0.0016 s)
+Cluster Average: 1789662541.6126
+Clock Skew / Correction: -0.1957 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1674 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662541.6135
+
+--- Node 0 Cycle 26 ---
+My initial time: 1789662544.6144
+Node 1: 1789662545.1717 (RTT: 0.0012 s)
+Node 2: 1789662544.7620 (RTT: 0.0008 s)
+Cluster Average: 1789662544.8494
+Clock Skew / Correction: +0.2327 s (Signo: desfase relativo)
+Cluster Std Dev: 0.2888 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662544.8496
+
+--- Node 0 Cycle 27 ---
+Random drift injected: -1.104 s
+My initial time: 1789662546.7461
+Node 1: 1789662547.9288 (RTT: 0.0011 s)
+Node 2: 1789662547.7077 (RTT: 0.0007 s)
+Cluster Average: 1789662547.4609
+Clock Skew / Correction: +0.7126 s (Signo: desfase relativo)
+Cluster Std Dev: 0.6288 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662547.4612
+
+--- Node 0 Cycle 28 ---
+My initial time: 1789662550.4627
+Node 1: 1789662550.7040 (RTT: 0.0013 s)
+Node 2: 1789662550.6277 (RTT: 0.0009 s)
+Cluster Average: 1789662550.5981
+Clock Skew / Correction: +0.1303 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1233 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662550.5984
+
+--- Node 0 Cycle 29 ---
+My initial time: 1789662553.5995
+Node 1: 1789662553.5416 (RTT: 0.0012 s)
+Node 2: 1789662553.5910 (RTT: 0.0009 s)
+Cluster Average: 1789662553.5774
+Clock Skew / Correction: -0.0247 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0313 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662553.5776
+
+--- Node 0 Cycle 30 ---
+Random drift injected: +0.323 s
+My initial time: 1789662556.9020
+Node 1: 1789662556.5722 (RTT: 0.0014 s)
+Node 2: 1789662556.9097 (RTT: 0.0011 s)
+Cluster Average: 1789662556.7946
+Clock Skew / Correction: -0.1104 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1927 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662556.7949
+
+--- Node 0 Cycle 31 ---
+My initial time: 1789662559.7970
+Node 1: 1789662559.7622 (RTT: 0.0012 s)
+Node 2: 1789662559.8247 (RTT: 0.0010 s)
+Cluster Average: 1789662559.7946
+Clock Skew / Correction: -0.0054 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0313 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662559.7951
+
+--- Node 0 Cycle 32 ---
+My initial time: 1789662562.7959
+Node 1: 1789662562.4463 (RTT: 0.0010 s)
+Node 2: 1789662562.6898 (RTT: 0.0007 s)
+Cluster Average: 1789662562.6440
+Clock Skew / Correction: -0.1541 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1793 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662562.6443
+
+--- Node 0 Cycle 33 ---
+Random drift injected: -1.666 s
+My initial time: 1789662563.9796
+Node 1: 1789662565.5954 (RTT: 0.0014 s)
+Node 2: 1789662565.4806 (RTT: 0.0010 s)
+Cluster Average: 1789662565.0185
+Clock Skew / Correction: +1.0361 s (Signo: desfase relativo)
+Cluster Std Dev: 0.9016 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662565.0188
+
+--- Node 0 Cycle 34 ---
+My initial time: 1789662568.0200
+Node 1: 1789662568.3669 (RTT: 0.0013 s)
+Node 2: 1789662568.2910 (RTT: 0.0013 s)
+Cluster Average: 1789662568.2260
+Clock Skew / Correction: +0.2030 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1824 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662568.2263
+
+--- Node 0 Cycle 35 ---
+My initial time: 1789662571.2272
+Node 1: 1789662571.7255 (RTT: 0.0012 s)
+Node 2: 1789662571.4152 (RTT: 0.0013 s)
+Cluster Average: 1789662571.4559
+Clock Skew / Correction: +0.2258 s (Signo: desfase relativo)
+Cluster Std Dev: 0.2517 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662571.4564
+
+--- Node 0 Cycle 36 ---
+Random drift injected: +0.303 s
+My initial time: 1789662574.7608
+Node 1: 1789662574.5350 (RTT: 0.0015 s)
+Node 2: 1789662573.9636 (RTT: 0.0013 s)
+Cluster Average: 1789662574.4198
+Clock Skew / Correction: -0.3442 s (Signo: desfase relativo)
+Cluster Std Dev: 0.4109 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662574.4203
+
+--- Node 0 Cycle 37 ---
+My initial time: 1789662577.4227
+Node 1: 1789662577.3100 (RTT: 0.0013 s)
+Node 2: 1789662577.2341 (RTT: 0.0012 s)
+Cluster Average: 1789662577.3222
+Clock Skew / Correction: -0.1037 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0949 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662577.3228
+
+--- Node 0 Cycle 38 ---
+My initial time: 1789662580.3255
+Node 1: 1789662580.7049 (RTT: 0.0016 s)
+Node 2: 1789662580.4238 (RTT: 0.0010 s)
+Cluster Average: 1789662580.4847
+Clock Skew / Correction: +0.1559 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1969 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662580.4849
+
+--- Node 0 Cycle 39 ---
+Random drift injected: -1.395 s
+My initial time: 1789662582.0912
+Node 1: 1789662583.5402 (RTT: 0.0012 s)
+Node 2: 1789662583.5991 (RTT: 0.0009 s)
+Cluster Average: 1789662583.0768
+Clock Skew / Correction: +0.9832 s (Signo: desfase relativo)
+Cluster Std Dev: 0.8541 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662583.0771
+
+--- Node 0 Cycle 40 ---
+My initial time: 1789662586.0777
+Node 1: 1789662586.4067 (RTT: 0.0013 s)
+Node 2: 1789662586.3628 (RTT: 0.0012 s)
+Cluster Average: 1789662586.2824
+Clock Skew / Correction: +0.2018 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1786 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662586.2826
+
+--- Node 0 Cycle 41 ---
+My initial time: 1789662589.2837
+Node 1: 1789662589.8615 (RTT: 0.0015 s)
+Node 2: 1789662589.5040 (RTT: 0.0010 s)
+Cluster Average: 1789662589.5498
+Clock Skew / Correction: +0.2631 s (Signo: desfase relativo)
+Cluster Std Dev: 0.2916 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662589.5500
+
+--- Node 0 Cycle 42 ---
+Random drift injected: +1.248 s
+My initial time: 1789662593.7993
+Node 1: 1789662592.6399 (RTT: 0.0011 s)
+Node 2: 1789662593.1121 (RTT: 0.0008 s)
+Cluster Average: 1789662593.1838
+Clock Skew / Correction: -0.6178 s (Signo: desfase relativo)
+Cluster Std Dev: 0.5830 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662593.1841
+
+--- Node 0 Cycle 43 ---
+My initial time: 1789662596.1852
+Node 1: 1789662595.9797 (RTT: 0.0012 s)
+Node 2: 1789662596.0930 (RTT: 0.0010 s)
+Cluster Average: 1789662596.0860
+Clock Skew / Correction: -0.1019 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1029 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662596.0862
+
+--- Node 0 Cycle 44 ---
+My initial time: 1789662599.0872
+Node 1: 1789662598.8995 (RTT: 0.0016 s)
+Node 2: 1789662599.0283 (RTT: 0.0011 s)
+Cluster Average: 1789662599.0050
+Clock Skew / Correction: -0.0858 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0960 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662599.0056
+
+--- Node 0 Cycle 45 ---
+Random drift injected: -0.731 s
+My initial time: 1789662601.2757
+Node 1: 1789662601.9807 (RTT: 0.0017 s)
+Node 2: 1789662601.7589 (RTT: 0.0008 s)
+Cluster Average: 1789662601.6718
+Clock Skew / Correction: +0.3930 s (Signo: desfase relativo)
+Cluster Std Dev: 0.3605 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662601.6721
+
+--- Node 0 Cycle 46 ---
+My initial time: 1789662604.6730
+Node 1: 1789662604.8055 (RTT: 0.0011 s)
+Node 2: 1789662604.7463 (RTT: 0.0006 s)
+Cluster Average: 1789662604.7416
+Clock Skew / Correction: +0.0664 s (Signo: desfase relativo)
+Cluster Std Dev: 0.0663 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662604.7420
+
+--- Node 0 Cycle 47 ---
+My initial time: 1789662607.7432
+Node 1: 1789662607.4323 (RTT: 0.0011 s)
+Node 2: 1789662607.6407 (RTT: 0.0008 s)
+Cluster Average: 1789662607.6054
+Clock Skew / Correction: -0.1399 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1584 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662607.6062
+
+--- Node 0 Cycle 48 ---
+Random drift injected: -0.965 s
+My initial time: 1789662609.6426
+Node 1: 1789662610.5639 (RTT: 0.0035 s)
+Node 2: 1789662611.2434 (RTT: 0.0013 s)
+Cluster Average: 1789662610.4833
+Clock Skew / Correction: +0.8356 s (Signo: desfase relativo)
+Cluster Std Dev: 0.8035 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662610.4835
+
+--- Node 0 Cycle 49 ---
+My initial time: 1789662613.4846
+Node 1: 1789662613.7670 (RTT: 0.0021 s)
+Node 2: 1789662613.8330 (RTT: 0.0006 s)
+Cluster Average: 1789662613.6949
+Clock Skew / Correction: +0.2072 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1851 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662613.6954
+
+--- Node 0 Cycle 50 ---
+My initial time: 1789662616.6965
+Node 1: 1789662616.4909 (RTT: 0.0012 s)
+Node 2: 1789662616.6746 (RTT: 0.0009 s)
+Cluster Average: 1789662616.6207
+Clock Skew / Correction: -0.0782 s (Signo: desfase relativo)
+Cluster Std Dev: 0.1129 s (Dispersión: siempre >= 0)
+Adjusted time: 1789662616.6209

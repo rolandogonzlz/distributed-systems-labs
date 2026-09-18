@@ -13,3 +13,4 @@ __pycache__/
 
 # Linux temporary files
 *~
+.venv/
